@@ -1,5 +1,9 @@
 
 
+<ClientOnly>
+  <my-demo></my-demo>
+</ClientOnly>
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|

@@ -4,10 +4,10 @@
   "description": "文档",
   "main": "index.js",
   "scripts": {
-      "docs:dev": "vuepress dev docs",
-      "docs:build": "vuepress build docs",
-	  "deploy":"bash deploy.sh"
-    },
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mlioe/docs.git"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mlioe/docs/issues"
   },
-  "homepage": "https://github.com/mlioe/docs#readme"
+  "homepage": "https://github.com/mlioe/docs#readme",
+  "dependencies": {
+    "element-ui": "^2.13.2"
+  }
 }
