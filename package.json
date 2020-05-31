@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/mlioe/docs#readme",
   "dependencies": {
-    "element-ui": "^2.13.2"
+    "mlioe-ui": "^0.1.6"
   }
 }

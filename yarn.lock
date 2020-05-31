@@ -2,3 +2,20 @@
 # yarn lockfile v1
 
 
+core-js@^3.6.4:
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a"
+  integrity sha512-vZVEEwZoIsI+vPEuoF9Iqf5H7/M3eeQqWlQnYa8FSKKePuYTf5MWnxb5SDAzCa60b3JBRS5g9b+Dq7b1y/RCrA==
+
+mlioe-ui@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/mlioe-ui/-/mlioe-ui-0.1.6.tgz#3ac65d6f8815185dcce08884b22bd78f70fa4a4e"
+  integrity sha512-iyLFj6IEMMyrA9xF9dPj8+BAqHZZoVJ/5OVFqN0UUDMJhYKV+KiWSfhbFrpZeU0AkxCmhurOK2ivcH28pMElKw==
+  dependencies:
+    core-js "^3.6.4"
+    vue "^2.6.11"
+
+vue@^2.6.11:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
+  integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==

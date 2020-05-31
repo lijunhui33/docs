@@ -32,9 +32,18 @@
 ::: danger STOP
 危险区域，禁止通行
 :::
-
+package.json
 ::: details 点击查看代码
 ```js
+
 console.log('你好，VuePress！')
+
+
+"browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+
 ```
 :::
