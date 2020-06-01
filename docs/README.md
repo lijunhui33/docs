@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /logo.jpg
-actionText: 快速上手 →
+actionText: 开始使用 →
 actionLink: /about/
 
 ---

@@ -1,6 +1,7 @@
 module.exports = {
 	base: '/docs/',
 	title: 'mlioe-ui',
+	description: '自己学习用的ui',
 	markdown: {
 		lineNumbers: true
 	},
@@ -12,7 +13,7 @@ module.exports = {
 	themeConfig: {
 		nav: [{
 				text: 'github',
-				link: '/guide/'
+				link: 'https://github.com/mlioe/ml-ui'
 			},
 			// {
 			// 	text: 'about',
