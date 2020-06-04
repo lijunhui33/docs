@@ -1,7 +1,6 @@
 // import ElementUI from 'element-ui';
 // import 'element-ui/lib/theme-chalk/index.css';
 import mlUi from 'mlioe-ui'
-console.log(mlUi)
 import 'mlioe-ui/dist/mlioe-ui.css'
 
 export default ({

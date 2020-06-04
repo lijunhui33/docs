@@ -27,6 +27,8 @@ module.exports = {
 			{title:'Button按钮',path:'/button'},
 			{title:'Icon图标',path:'/icon'},
 			{title:'Input输入框',path:'/input'},
+			{title:'Dialog对话框',path:'/dialog'},
+			{title:'Radio单选按钮',path:'/radio'},
 		]
 	},
 	sidebar: [
