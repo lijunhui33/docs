@@ -1,6 +1,10 @@
 ### Input输入框
 
 
+::: tip
+按钮的宽度默认是父元素宽度的100%，可以直接加style改变宽度
+:::
+
 ### 基础使用
 <ClientOnly>
   <input-demo1></input-demo1>
@@ -39,3 +43,9 @@
 | name      | 原生属性 | string |-- |-- |
 | clearable      | 清空图标 | Boolean |-- |false |
 | show-password     | 是否显示密码 | Boolean |-- |false |
+
+
+### Events
+| 参数          | 说明           | 
+| -----------   |:-------------:| 
+| @input      |值改变事件|

@@ -1,7 +1,7 @@
 <template>
 	<div style="margin-top: 20px;">
-		<ml-radio label="1" v-model="gender"  @input="input">男</ml-radio>
-		<ml-radio label="0"  v-model="gender"  @input="input">女</ml-radio>
+		<ml-radio label="1" v-model="gender"  @change="input">男</ml-radio>
+		<ml-radio label="0"  v-model="gender"  @change="input">女</ml-radio>
 	</div>
 </template>
 

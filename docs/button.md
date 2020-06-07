@@ -151,3 +151,8 @@
 | loading      | 是否加载中| Boolean |-- |false |
 | disabled      | 是否禁用| Boolean |-- |false |
 | icon      | 图标类名| string |具体看图标库 |-- |
+
+### Events
+| 参数          | 说明           | 
+| -----------   |:-------------:| 
+| @clcik      |点击事件|

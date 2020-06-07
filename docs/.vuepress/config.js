@@ -28,7 +28,12 @@ module.exports = {
 			{title:'Icon图标',path:'/icon'},
 			{title:'Input输入框',path:'/input'},
 			{title:'Dialog对话框',path:'/dialog'},
+			{title:'Switch开关',path:'/switch'},
 			{title:'Radio单选按钮',path:'/radio'},
+			{title:'Checkbox多选按钮',path:'/checkbox'},
+			{title:'Toast消息提示',path:'/toast'},
+			{title:'Select选择器',path:'/select'},
+			{title:'Datapicker日期选择器',path:'/datapicker'},
 		]
 	},
 	sidebar: [
