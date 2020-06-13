@@ -7,10 +7,10 @@ core-js@^3.6.4:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a"
   integrity sha512-vZVEEwZoIsI+vPEuoF9Iqf5H7/M3eeQqWlQnYa8FSKKePuYTf5MWnxb5SDAzCa60b3JBRS5g9b+Dq7b1y/RCrA==
 
-mlioe-ui@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/mlioe-ui/-/mlioe-ui-0.2.2.tgz#02b6173950d39b63794d05d0fde83a21b7c052b3"
-  integrity sha512-oqoddheny/Ne1UmV4trtUAaodYEwNislZJ+nP1yVnWC3STeYYuYcdSEN1mj8kksWWty/OssWJioz8DziYMz9OQ==
+mlioe-ui@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/mlioe-ui/-/mlioe-ui-0.2.3.tgz#7b58f290e0fdd245ff03b793002cc95cd8d4027b"
+  integrity sha512-CTwUErO3P0YPQwYTbtd4prxOM4nHP28vvXyVYfuRVfarsIqBlDxAYbtw1HJjnu2WAsen0PGPjjI8C5zFd8gLZg==
   dependencies:
     core-js "^3.6.4"
     vue "^2.6.11"
