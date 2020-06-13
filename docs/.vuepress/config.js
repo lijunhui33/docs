@@ -33,7 +33,9 @@ module.exports = {
 			{title:'Checkbox多选按钮',path:'/checkbox'},
 			{title:'Toast消息提示',path:'/toast'},
 			{title:'Select选择器',path:'/select'},
+			{title:'Timepicker时间选择器',path:'/timepicker'},
 			{title:'Datapicker日期选择器',path:'/datapicker'},
+			{title:'Form表单',path:'/form'},
 		]
 	},
 	sidebar: [
