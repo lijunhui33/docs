@@ -7,7 +7,7 @@
       }"
 		 @input="input"></ml-time-picker>
 		<ml-time-picker v-model="value2" placeholder="请选择时间" :picker-options="{
-		  selectableRange: '00:09:20 - 10:01:05'
+		  selectableRange: '00:09:20 - 15:01:05'
 		  
 		}"
 		 @input="input2"></ml-time-picker>
